@@ -1,6 +1,6 @@
 ---
-title: 'detail-6'
-layout: '../../layouts/Layout.astro'
+title: "detail-6"
+layout: "../../layouts/Layout.astro"
 ---
 
 <section class='flex gap-7 justify-center items-center flex-wrap text-white px-8% py-20'>

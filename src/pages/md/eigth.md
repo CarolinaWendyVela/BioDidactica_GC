@@ -1,6 +1,6 @@
 ---
-title: 'detail-5'
-layout: '../../layouts/Layout.astro'
+title: "detail-5"
+layout: "../../layouts/Layout.astro"
 ---
 
 <section transition:animate="slide"  class='flex gap-7 justify-center items-center flex-wrap text-white px-8% py-20'>
